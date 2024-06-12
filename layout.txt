@@ -1,0 +1,18 @@
+Home
+	o Short introduction
+		- B.S. SJSU
+		- Goals etc. (linkedin)
+Experience
+	o Leadership experience
+		- Computer Graphics @ SJSU
+		- Game Dev Club @ SJSU
+	o Professional experience
+		- Virtual Reality Research
+		- Playroom 
+Projects
+	o Games
+		- Taka Taka
+		- AtomDriver
+	o Tech demos
+		- Jelly Engine
+		- Ray Tracer
