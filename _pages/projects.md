@@ -1,3 +1,5 @@
 ---
+title: Projects
+permalink: /projects/
 ---
-Some text
+Projects will be here ...
