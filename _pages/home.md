@@ -1,38 +1,29 @@
 ---
+title: Rafael Padilla Perez
 layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#7cffc5"
-  overlay_image: /assets/images/splash.jpeg
-  actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
+  overlay_image: /assets/images/banner.png
+  overlay_color: "#000"
+  overlay_filter: "0.5"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.26.1">Latest release v4.26.1</a></small>
+  <b>Intern: Disney College Program</b> <br> Technical Artist: Rendering, Simulation, Tools, Pipeline.
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+  - image_path: /assets/images/headshot.jpeg
+    alt: "Rafael Padilla Perez - Bio"
+    title: "Bio"
+    excerpt: "I just graduated (Spring 2024) with a B.S. in Software Engineering from San Jose State University with Latin Honors. I'm extremely passionate about computer graphics, art, and working with the so many talented individuals around us. That's why I dream of building a career in technical art. 
+    <br><br>
+    I find immense joy in creating technology that allows us to unleash our imagination without bounds, and using it to create impactful works and stories that make others smile, from renders and feature films to video games. As they say in one famous studio, the technology drives the story, and the story drives the technology!
+    <br><br>
+    To learn more about my experience, click below:
+    "
+    
     url: "/docs/configuration/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Experience"
 ---
 
-{% include feature_row %}
+{% include feature_row type="left"%}
+Testing text
