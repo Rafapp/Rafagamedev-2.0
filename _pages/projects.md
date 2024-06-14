@@ -19,10 +19,10 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
-      - image_path: /assets/images/TakaTaka.png
+  - image_path: /assets/images/MayaLogo.png
     alt: "Alt text"
-    title: "Taka Taka"
-    excerpt: "<strong>Producer, Lead Programmer</strong><br><br>I shipped a rhythm game on Steam titled 'Taka Taka' where I led a talented team of 8 developers in disciplines such as art, sound design, music composition and programming."
+    title: "Maya Primitive Shape Library"
+    excerpt: "<strong>A shareable, user-created custom 3D primitive library</strong><br><br>In progress ..."
     url: "/experience/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
