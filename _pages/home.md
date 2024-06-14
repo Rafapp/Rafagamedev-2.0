@@ -20,7 +20,7 @@ feature_row:
     To learn more about my experience, click below:
     "
     
-    url: "/docs/configuration/"
+    url: "/experience/"
     btn_class: "btn--primary"
     btn_label: "Experience"
 ---
