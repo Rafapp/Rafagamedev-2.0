@@ -22,7 +22,7 @@ feature_row:
   - image_path: /assets/images/MayaLogo.png
     alt: "Alt text"
     title: "Maya Primitive Shape Library"
-    excerpt: "<strong>A shareable, user-created custom 3D primitive library</strong><br><br>In progress ..."
+    excerpt: "<strong>A shareable, user-created custom 3D primitive library (PyQT, MEL)</strong><br><br>In progress ..."
     url: "/experience/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
