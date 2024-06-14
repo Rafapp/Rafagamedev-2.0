@@ -13,11 +13,11 @@ feature_row:
   - image_path: /assets/images/headshot.jpeg
     alt: "Rafael Padilla Perez - Bio"
     title: "Bio"
-    excerpt: "I just graduated (Spring 2024) with a B.S. in Software Engineering from San Jose State University with Latin Honors. I'm extremely passionate about computer graphics, art, and working with the so many talented individuals around us. That's why I dream of building a career in technical art. 
+    excerpt: "I graduated with a B.S. in Software Engineering (Spring 2024) from San Jose State University with Latin Honors. I'm passionate about computer graphics and art and am currently an intern at the Disney College Program in Orlando, Florida, where I'm learning from Imagineers, artists, and engineers from the company. My goal is to become a Technical Artist and help ship a feature film or video game through an internship or entry-level job after the program ends in Feb. 2025.
     <br><br>
-    I find immense joy in creating technology that allows us to unleash our imagination without bounds, and using it to create impactful works and stories that make others smile, from renders and feature films to video games. As they say in one famous studio, the technology drives the story, and the story drives the technology!
+    I find immense joy in creating technology that allows us to unleash our imagination without bounds, and using it to create impactful works and stories that make a positive change in others. As they say in one famous studio:<br> <i>'The technology drives the story, and the story drives the technology!'</i>
     <br><br>
-    To learn more about my experience, click below:
+    <b>To learn more about my experience, click below:</b>
     "
     
     url: "/experience/"
