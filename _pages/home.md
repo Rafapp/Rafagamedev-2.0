@@ -17,9 +17,7 @@ feature_row:
     <br><br>
     I find immense joy in creating technology that allows us to unleash our imagination without bounds, and using it to create impactful works and stories that make a positive change in others. As they say in one famous studio:<br> <i>'The technology drives the story, and the story drives the technology!'</i>
     <br><br>
-    <b>To learn more about my experience, click below:</b>
-    "
-    
+    <b>To learn more about my experience, click below:</b>"
     url: "/experience/"
     btn_class: "btn--primary"
     btn_label: "Experience"
