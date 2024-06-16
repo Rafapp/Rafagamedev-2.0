@@ -7,16 +7,26 @@ feature_row:
     alt: "Playroom"
     title: "Playroom"
     excerpt: "<strong>Game Developer Intern (Jun. 2023 - Aug. 2023)</strong><br><br>As a Game Developer Intern at Playroom, I directed and developed a 3D platforming 'party style' multiplayer video game titled 'RollOut', which shipped to thousands of players worldwide by making my own 3D web-based engine using a large stack of JS libraries."
-
+    url: "https://rollout.joinplayroom.com/"
+    btn_class: "btn--primary"
+    btn_label: "Play (web)"
+    target: "_blank"
+    
   - image_path: /assets/images/TakaTaka.png
     alt: "Taka Taka"
     title: "Taka Taka"
     excerpt: "<strong>Producer, Lead Programmer (Unity, C#)</strong><br><br>I shipped a rhythm game on Steam titled 'Taka Taka' where I led a talented team of 8 developers in disciplines such as art, sound design, music composition and programming. The project started as a submission for Global Game Jam 2022, but became a 2-year fully produced game title which stands at over 200 sales on Steam, and has been featured in 'New & Trending' and 'Top Sellers' categories multiple times."
+    url: "https://store.steampowered.com/app/2336840/Taka_Taka/"
+    btn_class: "btn--primary"
+    btn_label: "Steam page"
 
   - image_path: /assets/images/VRLab.gif
     alt: "Research Foundation - San Jose State University"
     title: "Research Foundation - San Jose State University"
     excerpt: "<strong>Research Lead (Feb. 2022 - Present)</strong><br><br>I researched how Virtual Reality can be used to teach STEM concepts to university students by creating and testing a set of comprehensive VR modules with Unity Engine, and found it leads to an average 89% increase in learning. Our research paper is currently submitted and pending publication on the SoftwareX science journal."
+    url: "https://github.com/Rafapp/SJSU-MaterialsEngineering-VR-lab"
+    btn_class: "btn--primary"
+    btn_label: "Github repo"
 
   - image_path: /assets/images/CG_GDC.jpg
     alt: "ACM SIGGRAPH Student Chapter at SJSU"
@@ -31,5 +41,5 @@ feature_row:
 
 {% include feature_row type="single"%}
 
-<strong>If you would like to learn more about the 3D projects and games I've worked on, click here!</strong><br><br>
+<strong>Thank you for reading up to here! :)</strong><br><br> If you would like to learn more about the projects I've worked on, click here:<br><br>
 <a href="/projects/" class="btn btn--primary">Projects</a>

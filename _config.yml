@@ -43,6 +43,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-target-blank
 
 author:
   name   : "Rafael Padilla Perez"
