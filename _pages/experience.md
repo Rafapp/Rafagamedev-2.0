@@ -40,6 +40,7 @@ feature_row:
 ---
 
 {% include feature_row type="single"%}
+{% include new-window-fix.html %}
 
 <strong>Thank you for reading up to here! :)</strong><br><br> If you would like to learn more about the projects I've worked on, click here:<br><br>
 <a href="/projects/" class="btn btn--primary">Projects</a>

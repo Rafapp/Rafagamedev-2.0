@@ -20,4 +20,5 @@ feature_row:
     btn_label: "Github repo"
 ---
 
+{% include new-window-fix.html %}
 {% include feature_row type="single"%}
