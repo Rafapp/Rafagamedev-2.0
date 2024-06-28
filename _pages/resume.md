@@ -5,4 +5,4 @@ permalink: /resume/
 
 {% include new-window-fix.html %}
 
-<iframe src="{{ 'assets/resume.pdf' | relative_url }}" width="100%" height="700px" style="border: none;"></iframe>
+<iframe src="https://drive.google.com/file/d/12WdtnELsMeS-p5PcdQj8Ly-1GxSWm4j9/preview" width="100%" height="900vh" allow="autoplay"></iframe>
