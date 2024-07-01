@@ -13,14 +13,13 @@ feature_row:
   - image_path: /assets/images/headshot.jpeg
     alt: "Rafael Padilla Perez - Bio"
     title: "Bio"
-    excerpt: "B.S. in Software Engineering, Latin Honors, San Jose State University (2024). Disney College Program intern, Orlando, FL. Aspiring Technical Artist/TD seeking post-program role in Feb. 2025.
+    excerpt: "🎓 B.S. Graduate (2024) <b>Software Engineering</b>, San Jose State University. <br><br>🏰 <b>Disney</b> intern, Orlando, FL. <br><br>💻 Actively seeking an associate <b>Technical Artist/TD</b> or related role.<br><br>
+    I give artists superpowers with technology, and thrive from pushing the boundaries of what we think is technically possible. I love to learn and grow, striving to make creative visions a reality. As a famous studio says: <br><br><i>'The art challenges the technology, and the technology inspires the art!'</i>
     <br><br>
-    I love creating technology that unleashes imagination and inspires impactful works and stories, making a positive change. As a famous studio says: <br><br><i>'The art challenges the technology, and the technology inspires the art!'</i>
-    <br><br>
-    <b>To learn more about my experience, click below:</b>"
+    I also really like ramen 🍜, playing the piano 🎹, painting 🎨, and movies (especially animated!) 🎬."
     url: "/experience/"
     btn_class: "btn--primary"
-    btn_label: "Experience"
+    btn_label: "Recent experience"
 ---
 
 {% include feature_row type="left"%}
