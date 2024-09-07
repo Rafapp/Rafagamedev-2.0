@@ -11,10 +11,10 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Github repo"
 
-  - image_path: /assets/images/PrimLogo.png
+  - image_path: /assets/images/PrimDemo.gif
     alt: "Prim"
     title: "Prim"
-    excerpt: "<b>(In progress) MAYA/Blender plug-in</b><br><br>Enables artists to name and save scene meshes as primitives, curate 3D primitive libraries, instance them in new projects, and export them using a custom .prim file format for sharing among users.<br><br><i><b>Languages & Tools:</b></i> QT, PySide6, Maya, MEL, Blender, Python"
+    excerpt: "<b> MAYA plug-in</b><br><br>Enables artists to name and save scene meshes as primitives, curate 3D primitive libraries, instance them in new projects, and export them using a custom .prim file format for sharing among users.<br><br><i><b>Languages & Tools:</b></i> QT, PySide6, Maya, MEL, Python"
     url: "https://github.com/Rafapp/Prim"
     btn_class: "btn--primary"
     btn_label: "Github repo"
