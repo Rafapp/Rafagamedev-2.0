@@ -16,4 +16,9 @@ Projects
 		- Jelly Engine
 		- Maya tool in progress ...
 
+Passions
+	o Piano
+	o Photography
+	o Watercolor painting
+
 I have experience with Rendering(Rasterization, Ray-Tracing, Ray-Marching, Shaders), Simulation(RBD/SBD, flocking, particle dynamics, 3D physics/math), <b>Tools:</b>(Python with Blender, PyQT/MEL with Maya), and <b>Pipeline</b>(C/C++, Dear ImGui, Unity Engine, Unreal Engine, Godot)<br>
