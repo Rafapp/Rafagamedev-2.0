@@ -6,7 +6,7 @@ hidden: true
 header:
   overlay_image: /assets/images/banner.png
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.55"
 excerpt: >
   <b>Intern: Disney College Program</b> <br> Technical Artist: Rendering, Simulation, Tools, Pipeline.
 feature_row:
