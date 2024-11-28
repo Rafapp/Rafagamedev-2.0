@@ -80,8 +80,8 @@ gallery:
 
     - url: /assets/images/photo_gallery/15.jpg
       image_path: /assets/images/photo_gallery/15.jpg
-      alt: "Shot in 40x magnification using Celestron microscope"
-      title: "Shot in 40x magnification using Celestron microscope"
+      alt: "Shot in 40x magnification using Celestron telescope"
+      title: "Shot in 40x magnification using Celestron telescope"
 
 ---
 
