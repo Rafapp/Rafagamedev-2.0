@@ -1,9 +1,9 @@
 title: Rafael Padilla Perez
-subtitle: TD/Technical Artist
+subtitle: Software Engineer
 email: rpadiper@gmail.com
 logo: /assets/images/rafa_pfp.jpeg
 description: >- # this means to ignore newlines until "baseurl:"
-  Disney College Program Intern. Technical Artist: Rendering, Simulation, Tools, Pipeline.
+  Software Engineer
 twitter_username: rafagamedev
 github_username: rafapp
 # Mint: #7cffc5
@@ -39,18 +39,14 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
 author:
   name   : "Rafael Padilla Perez"
   avatar : "/assets/images/headshot.jpeg"
-  bio    : "Disney College Program Intern. Technical Artist: Rendering, Simulation, Tools, Pipeline."
+  bio    : "Software Engineer"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/RafaGamedev"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Rafapp"
@@ -60,9 +56,6 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/RafaGamedev"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Rafapp"
