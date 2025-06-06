@@ -3,6 +3,13 @@ title: Experience
 permalink: /experience/
 
 feature_row:
+  - image_path: /assets/images/wdas.jpg
+    alt: "Walt Disney Animation Studios"
+    title: "Walt Disney Animation Studios"
+    excerpt: "<b>Coming soon ...</b>"
+    url: "https://disneyanimation.com"
+    btn_class: "btn--primary"
+    btn_label: "WDAS Website"
   - image_path: /assets/images/rollout_thumbnail.png
     alt: "Playroom"
     title: "Playroom"
