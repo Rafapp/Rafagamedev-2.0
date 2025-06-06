@@ -23,9 +23,6 @@ feature_row:
     alt: "Piano"
     title: "Piano"
     excerpt: "I enjoy playing in my casio casiotone everything from classical music and covers for film scores to video game themes, and 80's music." 
-    url: "https://www.youtube.com/@rafagamedev/videos"
-    btn_class: "btn--primary"
-    btn_label: "Covers - YouTube (currently uploading)"
 
 ---
 
