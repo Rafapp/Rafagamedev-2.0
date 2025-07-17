@@ -3,7 +3,7 @@ title: Projects
 permalink: /projects/
 
 feature_row:
-  - image_path: /assets/images/wdas.jpg
+  - image_path: 
     alt: "Walt Disney Animation Studios"
     title: "VarGrid"
     excerpt: "<b>Trainee Team Project</b><br><br>Coming soon ..."
@@ -11,7 +11,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Coming soon"
 
-  - image_path: /assets/images/wdas.jpg
+  - image_path: 
     alt: "Walt Disney Animation Studios"
     title: "LookAround"
     excerpt: "<b>Individual Trainee Project</b><br><br>Coming soon ..."
