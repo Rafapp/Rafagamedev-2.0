@@ -3,21 +3,21 @@ title: Projects
 permalink: /projects/
 
 feature_row:
-  - image_path: 
+  - image_path: /assets/images/wdas.jpg
     alt: "Walt Disney Animation Studios"
     title: "VarGrid"
-    excerpt: "<b>Trainee Team Project</b><br><br>Coming soon ..."
-    url: ""
+    excerpt: "<b>Trainee Team Project</b><br><br>USD Tool that allows to visualize variant data intuitively"
+    url: "https://gumlet.tv/watch/6879674d7193df23ac9880a7/"
     btn_class: "btn--primary"
-    btn_label: "Coming soon"
+    btn_label: "Watch demo (password required)"
 
-  - image_path: 
+  - image_path: /assets/images/wdas.jpg
     alt: "Walt Disney Animation Studios"
     title: "LookAround"
-    excerpt: "<b>Individual Trainee Project</b><br><br>Coming soon ..."
-    url: ""
+    excerpt: "<b>Individual Trainee Project</b>br><br>Tool for the look departmend that allows to render turntable views of an asset in all of the film's sets"
+    url: "https://gumlet.tv/watch/6879674daa14b70eb1c6a38b/"
     btn_class: "btn--primary"
-    btn_label: "Coming soon"
+    btn_label: "Watch demo (password required)"
 
   - image_path: /assets/images/JellyEngineNew.gif
     alt: "Jelly Engine"
