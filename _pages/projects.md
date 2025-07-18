@@ -14,7 +14,7 @@ feature_row:
   - image_path: /assets/images/wdas.jpg
     alt: "Walt Disney Animation Studios"
     title: "LookAround"
-    excerpt: "<b>Individual Trainee Project</b>br><br>Tool for the look departmend that allows to render turntable views of an asset in all of the film's sets"
+    excerpt: "<b>Individual Trainee Project</b><br><br>Tool for the look departmend that allows to render turntable views of an asset in all of the film's sets"
     url: "https://gumlet.tv/watch/6879674daa14b70eb1c6a38b/"
     btn_class: "btn--primary"
     btn_label: "Watch demo (password required)"
