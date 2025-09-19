@@ -9,7 +9,7 @@ feature_row:
     excerpt: "<b>M.S. Computing, Graphics & Visualization (Aug. 2025 - Present)</b><br><br>Exploring research in rendering, path tracing, stylization, and physically based simulation & animation. Interested in practical industry workflows, asset pipelines, and the technical foundations that power production-quality graphics."
     url: "https://graphics.cs.utah.edu/"
     btn_class: "btn--primary"
-    btn_label: "Utah Graphics Lab"
+    btn_label: "U of Utah Graphics Department"
   - image_path: /assets/images/hexed.png
     alt: "Walt Disney Animation Studios"
     title: "Walt Disney Animation Studios"
