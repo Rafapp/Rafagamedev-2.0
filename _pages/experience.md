@@ -3,7 +3,7 @@ title: Experience
 permalink: /experience/
 
 feature_row:
-  - image_path: /assets/images/U.jpg
+  - image_path: /assets/images/Uni.jpg
     alt: "University of Utah"
     title: "The University of Utah"
     excerpt: "<b>M.S. Computing, Graphics & Visualization (Aug. 2025 - Present)</b><br><br>Exploring research in rendering, path tracing, stylization, and physically based simulation & animation. Interested in practical industry workflows, asset pipelines, and the technical foundations that power production-quality graphics."
