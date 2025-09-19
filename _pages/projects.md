@@ -3,13 +3,13 @@ title: Projects
 permalink: /projects/
 
 feature_row:
-  - image_path: /assets/images/wdas.jpg
+  - image_path: /assets/images/vargrid_logo.png
     alt: "Walt Disney Animation Studios"
     title: "VarGrid"
-    excerpt: "<b>Trainee Team Project</b><br><br>USD Tool that allows to visualize variant data intuitively"
+    excerpt: "<b>Trainee Team Project</b><br><br>Pixar Universal Scene Description (USD) based tool that visualizes asset variant data intuitively"
     url: "https://gumlet.tv/watch/6879674d7193df23ac9880a7/"
     btn_class: "btn--primary"
-    btn_label: "Watch demo (password required)"
+    btn_label: "Demo Video (password required)"
 
   - image_path: /assets/images/wdas.jpg
     alt: "Walt Disney Animation Studios"
@@ -17,7 +17,7 @@ feature_row:
     excerpt: "<b>Individual Trainee Project</b><br><br>Tool for the look department that allows to render turntable views of an asset in all of the film's sets"
     url: "https://gumlet.tv/watch/6879674daa14b70eb1c6a38b/"
     btn_class: "btn--primary"
-    btn_label: "Watch demo (password required)"
+    btn_label: "Demo Video (password required)"
 
   - image_path: /assets/images/JellyEngineNew.gif
     alt: "Jelly Engine"
