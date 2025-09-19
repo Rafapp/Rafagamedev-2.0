@@ -17,7 +17,7 @@ feature_row:
     url: "https://disneyanimation.com/"
     btn_class: "btn--primary"
     btn_label: "WDAS Website"
-  - image_path: /assets/images/wdas_moana.jpg
+  - image_path: /assets/images/moana.jpg
     alt: "Walt Disney Animation Studios"
     title: "Walt Disney Animation Studios"
     excerpt: "<b>Technical Director Trainee (Jan. 2025 - Apr. 2025)</b><br><br>As a part of the Trainee & Apprentice class of 2025, I trained in the <b>14+</b> departments involved in making a <b>Disney 3D animated feature film</b>, starting with modeling, visual development and layout up to animation, lighting, rendering, stereo, and beyond. Produced an individual, and team project utilizing Zootopia II assets, which was presented to the Technical Direction Department."
