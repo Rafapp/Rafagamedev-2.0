@@ -3,13 +3,27 @@ title: Experience
 permalink: /experience/
 
 feature_row:
-  - image_path: /assets/images/wdas.jpg
+  - image_path: /assets/images/U.jpg
+    alt: "University of Utah"
+    title: "The University of Utah"
+    excerpt: "<b>M.S. Computing, Graphics & Visualization (Aug. 2025 - Present)</b><br><br>Exploring research in rendering, path tracing, stylization, and physically based simulation & animation. Interested in practical industry workflows, asset pipelines, and the technical foundations that power production-quality graphics."
+    url: "https://graphics.cs.utah.edu/"
+    btn_class: "btn--primary"
+    btn_label: "Utah Graphics Lab"
+  - image_path: /assets/images/hexed.png
     alt: "Walt Disney Animation Studios"
     title: "Walt Disney Animation Studios"
-    excerpt: "<b>Coming soon ...</b>"
-    url: "https://disneyanimation.com"
+    excerpt: "<b>Assistant Technical Director - Hexed (Apr. 2025 - Jul. 2025)</b><br><br>Working with the film’s technical supervisors, supported the production of <b>Hexed</b> (Nov. 2026) by developing tools and technologies, improving pipeline workflows, and providing daily hands-on support to unblock artists. Additionally, contributed with artistic production support during high pressure periods for <b>Zootopia II</b>."
+    url: "https://disneyanimation.com/"
     btn_class: "btn--primary"
     btn_label: "WDAS Website"
+  - image_path: /assets/images/headshot_moana.jpg
+    alt: "Walt Disney Animation Studios"
+    title: "Walt Disney Animation Studios"
+    excerpt: "<b>Technical Director Trainee (Jan. 2025 - Apr. 2025)</b><br><br>As a part of the Trainee & Apprentice class of 2025, I trained in the <b>14+</b> departments involved in making a <b>Disney 3D animated feature film</b>, starting with modeling, visual development and layout up to animation, lighting, rendering, stereo, and beyond. Produced an individual, and team project utilizing Zootopia II assets, which was presented to the Technical Direction Department."
+    url: "https://disneyanimation.com/talent-development/apprenticeships/"
+    btn_class: "btn--primary"
+    btn_label: "WDAS Trainee & Apprentice Program"
   - image_path: /assets/images/rollout_thumbnail.png
     alt: "Playroom"
     title: "Playroom"

@@ -13,9 +13,9 @@ feature_row:
   - image_path: /assets/images/headshot.jpeg
     alt: "Rafael Padilla Perez - Bio"
     title: "About me"
-    excerpt: "I give artists superpowers with technology, and thrive from pushing the boundaries of what we think is technically possible. I love to learn and grow, striving to make creative visions a reality. As a famous studio says: <br><br><i>'The art challenges the technology, and the technology inspires the art!'</i>
+    excerpt: "I give artists superpowers with technology, and I thrive from pushing the boundaries of what we think we can do with it. If someone dreams it, I'll find a way to put it on a screen so it can make many people happy. As a famous studio says: <br><br><i>'The art challenges the technology, and the technology inspires the art!'</i>
     <br><br>
-    I also really like ramen 🍜, playing the piano 🎹, watercolor🎨, photography 📸, and movies (especially animated!) 🎬."
+    I also like playing the piano 🎹, watercolor🎨, photography 📸, video games, and film (especially animated!) 🎬."
     url: "/experience/"
     btn_class: "btn--primary"
     btn_label: "Recent experience"
