@@ -6,7 +6,7 @@ feature_row:
   - image_path: /assets/images/Uni.jpg
     alt: "University of Utah"
     title: "The University of Utah"
-    excerpt: "<b>M.S. Computing, Graphics & Visualization (Aug. 2025 - Present)</b><br><br>Exploring research in rendering, path tracing, stylization, and physically based simulation & animation. Interested in practical industry workflows, asset pipelines, and the technical foundations that power production-quality graphics."
+    excerpt: "<b>M.S. Computing, Graphics & Visualization (Aug. 2025 - Present)</b><br><br>Exploring research in rendering, path tracing, stylization, and physically based simulation & animation. Interested in practical industry workflows, asset pipelines, and the technical foundations that power production-quality graphics. Heading the ACM SIGGRAPH Student Chapter as Founder and President."
     url: "https://graphics.cs.utah.edu/"
     btn_class: "btn--primary"
     btn_label: "U of Utah Graphics Department"
