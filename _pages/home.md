@@ -1,5 +1,5 @@
 ---
-title: Rafael Padilla Perez
+title: Rafael (Rafa) Padilla Perez 
 layout: splash
 permalink: /
 hidden: true
@@ -7,15 +7,14 @@ header:
   overlay_image: /assets/images/banner.png
   overlay_color: "#000"
   overlay_filter: "0.55"
+  overlay_position: "center 50%"
 excerpt: >
-  <b>Creative technologist</b>
+  <b>Graphics & Software Engineer</b>
 feature_row:
   - image_path: /assets/images/headshot.jpeg
     alt: "Rafael Padilla Perez - Bio"
     title: "About me"
-    excerpt: "I give artists superpowers with technology, and I thrive from pushing the boundaries of what we think we can do with it. If someone dreams it, I'll find a way to put it on a screen so it can make many people happy. As a famous studio says: <br><br><i>'The art challenges the technology, and the technology inspires the art!'</i>
-    <br><br>
-    I also like playing the piano 🎹, watercolor🎨, photography 📸, video games, and film (especially animated!) 🎬."
+    excerpt: "I'm a Graphics and Software Engineer building tools and technology for creative production. At Walt Disney Animation Studios, I worked as an Assistant Technical Director on <b><i>Zootopia II</i></b> and <b><i>Hexed (2026)</i></b>, optimizing pipelines for artists in all disciplines and enabling new creative workflows.<br><br>Now, I'm pursuing a Master's in Computer Graphics & Visualization at the University of Utah while leading our ACM SIGGRAPH Student Chapter. My passion is bridging the gap between technical innovation and artistic vision."
     url: "/experience/"
     btn_class: "btn--primary"
     btn_label: "Recent experience"
