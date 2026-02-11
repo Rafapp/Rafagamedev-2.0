@@ -3,6 +3,13 @@ title: Projects
 permalink: /projects/
 
 feature_row:
+  - image_path: /assets/images/penumbra.png
+    alt: "Penumbra"
+    title: "Penumbra"
+    excerpt: "<b>Path-tracing Renderer</b><br><br>Penumbra is a compact, physically based path-tracing renderer written from scratch in C++, designed for fast iteration, rendering experiments, and research. It implements modern light-transport techniques, including multiple importance sampling (MIS) and next-event estimation (NEE) alongside the Walt Disney Animation Studios' principled BSDF/BSSRDF, and supports mono and stereo image and animation output."
+    url: "https://github.com/Rafapp/Penumbra"
+    btn_class: "btn--primary"
+    btn_label: "Github repo"
   - image_path: /assets/images/vargrid_logo.png
     alt: "Walt Disney Animation Studios"
     title: "VarGrid"
